@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-crypto</artifactId>
-            <version>6.0.2</version>
+            <version>6.3.2</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -59,12 +59,12 @@
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-util</artifactId>
-            <version>10.1.7</version>
+            <version>10.1.28</version>
         </dependency>
         <dependency>
             <groupId>com.github.oshi</groupId>
             <artifactId>oshi-core</artifactId>
-            <version>6.4.0</version>
+            <version>6.6.3</version>
         </dependency>
         <dependency>
             <groupId>com.servlets</groupId>
@@ -79,7 +79,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
-            <version>5.8.18</version>
+            <version>5.8.31</version>
         </dependency>
     </dependencies>
 
